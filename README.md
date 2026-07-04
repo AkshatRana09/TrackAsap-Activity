@@ -1,2 +1,15 @@
-# TrackAsap-Activity
-My DSA problem solutions &amp; notes — auto-synced from TrackAsap
+# TrackAsap — AkshatRana09's Solutions
+
+> Auto-synced from [TrackAsap](https://track-asap.vercel.app)
+
+| Metric | Count |
+| ------ | ----- |
+| Code files | 1 |
+| Notes | 1 |
+| Sheet problems | 1 |
+| Standalone problems | 0 |
+| Last synced | 2026-07-04 |
+
+---
+
+*This repo is automatically managed by TrackAsap. Manual edits may be overwritten on next sync.*
